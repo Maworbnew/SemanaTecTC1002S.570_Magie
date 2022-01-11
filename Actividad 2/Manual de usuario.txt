@@ -1,0 +1,18 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+        Manual de usuario
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+El siguiente código consiste en el análisis de una dataset de spotify desarrollado por 
+Brice Vergnou dentro del website Kaggle. El cual muestra los datos de 195 canciones 
+junto a sus estadísticas encontradas en la plataforma.
+
+Para poder ejecutar el programa es necesario tener descargado el archivo csv
+que podemos encontrar en la siguiente liga: 
+https://www.kaggle.com/bricevergnou/spotify-recommendation?select=data.csv
+
+Una vez ya descargado el archivo, deberemos colocarlo dentro de la misma ubicación
+que el código "Actividad2.py".
+
+Finalmente, ya ubicados los archivos en la misma ubicación se podrá ejecutar
+correctamente el programa. Cabe recalcar que es necesario tener instalado un IDE (IDE 
+recomendado: VS code), python (versión recomendada 3.9.9) y pandas.
