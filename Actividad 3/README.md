@@ -1,3 +1,4 @@
+Actividad 3 Mapas de calor y boxplots
 En esta actividad, trabajarás con el conjunto de datos que seleccionaste. Tienes que replicar los pasos vistos durante la clase.
 
 Realiza un código que haga lo siguiente:
