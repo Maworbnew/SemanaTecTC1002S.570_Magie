@@ -1,0 +1,21 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+        Manual de usuario
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+El siguiente código consiste en el análisis de una dataset de calidad
+del agua en ríos de India, desarrollado por Utcarsh Agrawal
+ dentro del website Kaggle. El cual muestra los datos la calidad del 
+agua promedio en algunos ríos de India,tomando en consideración
+parámetros importantes que nos ayudarán a determinar la cantidad de 
+elementos químicos encontrados en las mismas. 
+
+Para poder ejecutar el programa es necesario tener descargado el archivo csv
+que podemos encontrar en la siguiente liga: 
+https://www.kaggle.com/utcarshagrawal/water-quality-data/version/1
+
+Una vez ya descargado el archivo, deberemos colocarlo dentro de la misma ubicación
+que el código "Actividad3.py".
+
+Finalmente, ya ubicados los archivos en la misma ubicación se podrá ejecutar
+correctamente el programa. Cabe recalcar que es necesario tener instalado un IDE (IDE 
+recomendado: VS code), python (versión recomendada 3.9.9),pandas,matplotlib,numpy y seaborn.
